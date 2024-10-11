@@ -1,0 +1,10 @@
+.venv
+.mypy_cache
+.pytest_cache
+build/*
+*.egg-info
+.vscode
+__pycache__
+*.DS_Store
+conf*.json
+test*.json
